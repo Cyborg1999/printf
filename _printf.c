@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * _printf - is a function that selects the correct function to print.
  * @format: identifier to look for.
